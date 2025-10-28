@@ -20,6 +20,8 @@ const Hero = () => {
       <video src="/videos/hero.mp4" autoPlay muted playsInline />
       {/* create a buy button */}
       <button>Buy</button>
+      {/* create a amount  */}
+      <p>From $2000 or $150/mo for 12 months</p>
     </section>
   );
 };
